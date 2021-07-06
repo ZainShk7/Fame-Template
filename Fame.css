@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+nav{
+    position: absolute;
+    top: 0;
+}
+.logo{
+    font-family: cursive;
+    color: #5bb02e;
+    font-size: xx-large;
+    margin-left: 40px;
+    line-height: 60px;
+}
+img{
+    height: 80vh;
+    width: 100%;
+}
+ol{
+    display: inline-block;
+    list-style-type: none;
+    color: white;
+}
+li{
+    display: inline-block;
+    margin-left: 45px;
+}
+h1{
+  display: inline-block;
+    color: white;
+    font-size: -webkit-xxx-large;
+    text-align: center;
+    position: relative;
+    top: 80px;
+    left: 440px;
+}
+#H1{
+    display: inline-block;
+    color:#5bb02e;
+    font-size: -webkit-xxx-large;
+    text-align: center;
+    position: relative;
+    top: 80px;
+    left: 455px;
+}
+#Main-para{
+    color: white;
+    position: relative;
+    top: 95px;
+    font-weight: 500;
+    left: 35px;
+    text-align: center;
+}
+.btn{
+    display: inline-block;
+    POSITION: relative;
+    background: #5bb02e;
+    height: 40px;
+    width: 125px;
+    left: 560px;
+    top: 160px;
+}
+#hollow-circle{
+    color: white;
+    font-size: small;
+    position: relative;
+    top: 235px;
+    left: 400px;
+}
+.Main-flex-box{
+    display: inline-flex;
+    flex-wrap: wrap;
+    height: auto;
+    width: auto;
+}
+#GREEN-BLOCKS{
+    height: 80px;
+    width: 80px;
+    background: #5bb02e;
+    margin-left:  200px;
+    margin-top: 90px;
+}
+#Block-icon{
+    color: white;
+    font-size: xx-large;
+    margin: 25px;
+
+}
+div label{
+    position: relative;
+    font-size: smaller;
+    left: 35px;
+    top: 15px;
+    margin-left: 163px;
+    opacity: 0.7;
+}
+.para-flex{
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+div p{
+    font-size: small;
+    margin-left: 150px;
+    text-align: center;
+    margin-top: 25px;
+    width: 185px;
+    opacity: 0.7;
+}
